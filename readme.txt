@@ -7,9 +7,9 @@
 -머신러닝,
 -딥러닝(AI 약한)
 
-2. git를 이용한 공정 관리
- - git를
- -  
+2. git를 이용한 공정관리
+  - github.com 가입 및 로그인
+  - git-scm.com 다운로드 및 설치
 
  -github에 new > repogitory 생성
     생성시 readme, .gitignore (python)으로 체크 및 생성
